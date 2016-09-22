@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
-        applicationId "de.example.frank.location"
+        applicationId "de.example.andy.location"
         minSdkVersion 22
         targetSdkVersion 24
         versionCode 1
